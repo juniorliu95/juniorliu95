@@ -14,12 +14,19 @@ I am a researcher in Toshiba R&D center. My goal is to improve the efficiency an
 - Deploying and adjusting SOTA models on consignment projects.
 
 
-### Algorithmic engineer
+### Algorithm engineer
 **Hikvision** - *Hangzhou, China*  
 *4, 2019 - 9, 2019*
 
 - I proposed an algorithm for active learning. Results were presented at a conference.
 - I implemented the then-current deep learning model CornerNet and tested it on the company's product development dataset.
+
+### Algorithm engineer
+**HY Medical Tech** - *Beijing, China*  
+*4, 2018 - 7, 2018*
+
+- I participated in the development of an automated medical examination platform.
+- Two papers were published according to my algorithm.
 
 ## Education
 
