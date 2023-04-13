@@ -2,8 +2,6 @@
 
 [Email](mailto:liu.junyu.82w@st.kyoto-u.ac.jp) | [Google Scholar](https://scholar.google.com/citations?user=JtCyNr8AAAAJ)
 
-## Summary
-
 I am a researcher in Toshiba Corp, currently focusing on unsupervised anomaly detection. I am also a PhD candidate at Kyoto University, working in the field of the medical inforamtics.
 
 ## Experience
