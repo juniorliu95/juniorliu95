@@ -12,6 +12,13 @@ I am a researcher in Toshiba Corp, currently focusing on unsupervised anomaly de
 
 - Focus on unsupervised anomaly detection
 
+### Algorithmic engineer
+**Hikvision** - *Hangzhou, China*  
+*4, 2019 - 9, 2019*
+
+- I proposed an algorithm for active learning. Results were presented at a conference.
+- I implemented the then-current deep learning model CornerNet and tested it on the company's product development dataset.
+
 ## Education
 
 ### PhD candidate, Medical Science
