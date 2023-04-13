@@ -4,7 +4,7 @@
 
 ## Summary
 
-I am a researcher in Toshiba Corp, focusing on analysis of sensor data.
+I am a researcher in Toshiba Corp, currently focusing on anomaly detection on sensor data. I am also a PhD candidate at Kyoto University, working in the field of the medical inforamtics.
 
 ## Experience
 
@@ -16,9 +16,18 @@ I am a researcher in Toshiba Corp, focusing on analysis of sensor data.
 
 ## Education
 
-### Degree (e.g., Bachelor of Science in Computer Science)
+### PhD candidate, medical science
 **Kyoto University** - *Kyoto, Japan*  
 *4, 2023 - 3, 2026*
+### PhD candidate, computer science
+**Kyoto University** - *Kyoto, Japan*  
+*10, 2019 - 4, 2022*
+### Master, Electrical engineering
+**Harbin Institute of Technology** - *Harbin, China*  
+*9, 2017 - 7, 2019*
+### Bachelor, Electrical engineering
+**Harbin Institute of Technology** - *Harbin, China*  
+*9, 2013 - 7, 2017*
 
 ## Skills
 
@@ -34,7 +43,7 @@ I am a researcher in Toshiba Corp, focusing on analysis of sensor data.
 - Code of "Fear of Infection and Sufficient Vaccine Reservation Information Might Drive Rapid Coronavirus Disease 2019 Vaccination in Japan: Evidence from Twitter Analysis"
 - [Link to the project repository](https://github.com/juniorliu95/COVID_fear)
 
-### Project Name 2
+### Fingerprint orientation field analysis
 *4, 2017 - 4, 2018*
 
 - Code of "Orienet: A regression system for latent fingerprint orientation field extraction"
@@ -48,6 +57,6 @@ I am a researcher in Toshiba Corp, focusing on analysis of sensor data.
 
 ## Interests
 
-- time series
-- medical informatics
-- semi-supervised learning
+- Time series
+- Medical informatics
+- Semi-supervised learning
