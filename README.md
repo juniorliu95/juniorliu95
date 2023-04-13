@@ -4,7 +4,7 @@
 
 ## Summary
 
-I am a researcher in Toshiba Corp, currently focusing on anomaly detection on sensor data. I am also a PhD candidate at Kyoto University, working in the field of the medical inforamtics.
+I am a researcher in Toshiba Corp, currently focusing on unsupervised anomaly detection. I am also a PhD candidate at Kyoto University, working in the field of the medical inforamtics.
 
 ## Experience
 
@@ -12,20 +12,20 @@ I am a researcher in Toshiba Corp, currently focusing on anomaly detection on se
 **Toshiba** - *Kanagawa, Japan*  
 *4, 2022 - Present*
 
-- Focus on anomaly detection of time series data
+- Focus on unsupervised anomaly detection
 
 ## Education
 
-### PhD candidate, medical science
+### PhD candidate, Medical Science
 **Kyoto University** - *Kyoto, Japan*  
 *4, 2023 - 3, 2026*
-### PhD candidate, computer science
+### PhD candidate, Computer Science
 **Kyoto University** - *Kyoto, Japan*  
 *10, 2019 - 4, 2022*
-### Master, Electrical engineering
+### Master, Electrical Engineering
 **Harbin Institute of Technology** - *Harbin, China*  
 *9, 2017 - 7, 2019*
-### Bachelor, Electrical engineering
+### Bachelor, Electrical Engineering
 **Harbin Institute of Technology** - *Harbin, China*  
 *9, 2013 - 7, 2017*
 
