@@ -33,7 +33,7 @@ I am a researcher in Toshiba R&D center. My goal is to improve the efficiency an
 ### PhD candidate, Medical Science
 **Kyoto University** - *Kyoto, Japan*  
 *4, 2023 - 9, 2025*
-### PhD candidate, Computer Science
+### PhD candidate (quit), Computer Science
 **Kyoto University** - *Kyoto, Japan*  
 *10, 2019 - 4, 2022*
 ### Master, Electrical Engineering
