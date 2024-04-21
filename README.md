@@ -6,9 +6,16 @@ I am a researcher in Toshiba R&D center. My goal is to improve the efficiency an
 
 ## Experience
 
+### Customer engineer
+**Scale AI** - *Tokyo, Japan*
+*11, 2023 - Present*
+
+- provide technical support for local customer in Japanese
+- solutions for optimizing platform tools
+
 ### Researcher
 **Toshiba** - *Kanagawa, Japan*  
-*4, 2022 - Present*
+*4, 2022 - 10, 2023*
 
 - Focus on the practical problems in the manufacturing and infrastructure environment.
 - Deploying and adjusting SOTA models on consignment projects.
