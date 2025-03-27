@@ -2,7 +2,7 @@
 
 [Email](mailto:liu.junyu.82w@st.kyoto-u.ac.jp) | [Google Scholar](https://scholar.google.com/citations?user=JtCyNr8AAAAJ)
 
-I am a researcher in Toshiba R&D center. My goal is to improve the efficiency and reduce the cost by propose and implement data analysis solutions to practical problems in the manufacturing and infrastructure environment. I am also very passionate about medical informatics and hope that my research will help to achieve more accurate, efficient and cost-effective diagnosis and decision making.
+I am a customer engineer @Scale AI and PhD candidate  @Kyoto University. I am also very passionate about medical informatics and hope that my research will help to achieve more accurate, efficient and cost-effective diagnosis and decision making.
 
 ## Experience
 
