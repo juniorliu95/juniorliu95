@@ -8,7 +8,7 @@ I am a customer engineer @Scale AI and PhD candidate  @Kyoto University. I am al
 
 ### Customer engineer
 **Scale AI** - *Tokyo, Japan*
-*11, 2023 - Present*
+*9, 2022 - Present*
 
 - provide technical support for local customer in Japanese
 - solutions for optimizing platform tools
@@ -37,12 +37,9 @@ I am a customer engineer @Scale AI and PhD candidate  @Kyoto University. I am al
 
 ## Education
 
-### PhD candidate, Medical Science
+### PhD candidate, Medical Informatics
 **Kyoto University** - *Kyoto, Japan*  
-*4, 2023 - 9, 2025*
-### PhD candidate (quit), Computer Science
-**Kyoto University** - *Kyoto, Japan*  
-*10, 2019 - 4, 2022*
+*10, 2019 - 3, 2026*
 ### Master, Electrical Engineering
 **Harbin Institute of Technology** - *Harbin, China*  
 *9, 2017 - 7, 2019*
