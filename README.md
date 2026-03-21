@@ -8,14 +8,14 @@ I am a customer engineer @Scale AI and PhD candidate  @Kyoto University. I am al
 
 ### Algrothim engineer
 **SAP** - *Tokyo, Japan*
-*10, 2025 - present
+*10, 2025 - present*
 
 - Build AI components for the existing services
 - Development of new products
 
 ### Customer engineer
 **Scale AI** - *Tokyo, Japan*
-*9, 2022 - 9,2025
+*9, 2022 - 9,2025*
 
 - provide technical support for local customer in Japanese
 - solutions for optimizing platform tools
