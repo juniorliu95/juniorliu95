@@ -10,7 +10,7 @@ I am a customer engineer @Scale AI and PhD candidate  @Kyoto University. I am al
 **SAP** - *Tokyo, Japan*
 *10, 2025 - present*
 
-- Build AI components for the existing services
+- Core member building Next-GEN CuA system
 - Development of new products
 
 ### Customer engineer
